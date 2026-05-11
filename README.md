@@ -18,7 +18,7 @@ Executar os notebooks na seguinte ordem:
 1_3_NER_spaCy_v1.ipynb
 2_1_AnaliseDados_v1.ipynb
 
-12. requirements.txt
+Requirements.txt
 
 pandas
 numpy
