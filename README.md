@@ -14,8 +14,11 @@ pip install -r requirements.txt
 Executar os notebooks na seguinte ordem:
 
 1_1_Segmentacao_Limpeza_v1.ipynb
+
 1_2_GerarPOS_v1.ipynb
+
 1_3_NER_spaCy_v1.ipynb
+
 2_1_AnaliseDados_v1.ipynb
 
 Requirements
